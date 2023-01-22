@@ -1,1 +1,1 @@
-print("This is vijendra's print statement")
+print('This is vijendras print statement')
