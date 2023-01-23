@@ -1,2 +1,2 @@
 #this is corrected
-print('This is vijendras print statement')
+print('This is vijendras print statements')
